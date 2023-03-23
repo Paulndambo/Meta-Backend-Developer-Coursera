@@ -1,0 +1,1 @@
+kubectl -n wefix-dev edit deployments.apps c2s-api-rabbitmq
