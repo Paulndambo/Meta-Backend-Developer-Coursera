@@ -1,4 +1,5 @@
 file = open("test.txt", "r+")
+<<<<<<< HEAD
 #print(file.readlines())
 file.close()
 
@@ -14,3 +15,6 @@ try:
         file.writelines(["Python is good for ML\n", "Java is good for FinTech\n", "Go is good for K8s"])
 except FileNotFoundError as e:
     print("ERROR", e)
+=======
+print(file.read())
+>>>>>>> bd5cf7b (rebasing completed)

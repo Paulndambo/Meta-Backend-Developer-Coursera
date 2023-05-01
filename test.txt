@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello World!!!! Golang is fast, but am a Python guy
 Golang is also cool but still am a Python guy
+=======
+Hello World!!!! Golang is fast, but am a Python guy
+>>>>>>> bd5cf7b (rebasing completed)

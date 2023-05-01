@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def sum(n):
    if n == 1:
        return 0
@@ -19,3 +20,6 @@ def lesser(numbers):
 
 small = list(map(lesser, numbers))
 print(small)
+=======
+print("Hello World")
+>>>>>>> bd5cf7b (rebasing completed)
