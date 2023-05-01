@@ -16,7 +16,3 @@ del list1[4]
 for x in list1:
     print(x)
 
-<<<<<<< HEAD
-print(names)
-=======
->>>>>>> bd5cf7b (rebasing completed)
